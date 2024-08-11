@@ -1,5 +1,5 @@
 # Cheesebake
-![Cheesecake Image](https://i.ibb.co/7WHJCps/cheesecake.jpg)
+![Cheesecake Image](./assets/cheesecake.jpg)<br>
 This is a fresh start. This is a hypothetical project with a potential to become something real, maybe with SaaS (software as a service) potential.
 
 ## Idea
